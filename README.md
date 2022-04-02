@@ -19,6 +19,8 @@
 * First, it stores numbers in a queue and operators in a stack, to convert infix to postfix notation
 * Then that postfix notation is used to formulate a final answer
 * Here is an example of how the algorithm arrives to the answer:
+
+
 ![image](https://user-images.githubusercontent.com/42700917/161365655-3d190783-8bf6-4e79-a3c9-f4ddf741a1c1.png)
 
 ![image](https://user-images.githubusercontent.com/42700917/161365684-b93b8adf-d051-4021-846c-88d71687eb48.png)
