@@ -7,7 +7,6 @@
 3. Enter the "MathEquation" folder using ```cd MathEquation```
 4. Compile using this command: ```g++ -o Solver LinkedLists.cpp StacksQueues.cpp main.cpp```
 5. In terminal, type: ```./Solver.exe```
-6. click space to simulate every step the robot takes in the virtual map!
 ### Alternatively:
 1. Download the files of this repository by zipping it, and then open that folder through file explorer
 2. If you are on a linux based shell: ```g++ -o Solver LinkedLists.cpp StacksQueues.cpp main.cpp``` should compile and ```./Solver``` should run it
